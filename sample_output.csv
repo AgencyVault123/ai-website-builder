@@ -1,0 +1,6 @@
+business_name,phone,address,email,website_path,rating,review_count,place_id
+"Phoenix Reliable Plumbing","+1 (602) 555-0142","1847 W Camelback Rd, Phoenix, AZ 85015","","output/phoenix_reliable_plumbing.html","4.8","127","ChIJXXXXXXXXXXXXXXXXXXXX"
+"Desert Flow Plumbing & Drain","+1 (480) 555-0298","3312 E Thomas Rd, Phoenix, AZ 85018","","output/desert_flow_plumbing_drain.html","4.6","89","ChIJYYYYYYYYYYYYYYYYYYYY"
+"Valley Plumbing Pros","+1 (623) 555-0371","9201 N 7th St, Phoenix, AZ 85020","info@valleyplumbingpros.com","output/valley_plumbing_pros.html","4.9","203","ChIJZZZZZZZZZZZZZZZZZZZZ"
+"AZ Master Plumbers","+1 (602) 555-0184","5540 S Central Ave, Phoenix, AZ 85040","","output/az_master_plumbers.html","4.7","64","ChIJAAAAAAAAAAAAAAAAAAAA"
+"Copper State Plumbing LLC","+1 (480) 555-0419","2280 W Thunderbird Rd, Phoenix, AZ 85023","contact@copperstateplumbing.com","output/copper_state_plumbing_llc.html","4.5","41","ChIJBBBBBBBBBBBBBBBBBBBB"
